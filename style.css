@@ -12,11 +12,3 @@ nav{
     flex: 1;
     text-align: right;
 }
-nav ul{
-    display: inline-block;
-    list-style-type: non;
-}
-nav ul li{
-    display: inline-block;
-    margin-right: 20px;
-}
